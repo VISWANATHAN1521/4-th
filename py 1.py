@@ -1,0 +1,16 @@
+import turtle
+pen=turtle.Turtle()
+pen.screen.bgcolor('black')
+pen.pencolor('white')
+pen.forward(100)
+pen.pencolor('blue')
+pen.right(90)
+pen.forward(100)
+pen.pencolor('red')
+pen.right(90)
+pen.forward(100)
+pen.pencolor('yellow')
+pen.right(90)
+pen.forward(100)
+pen.hideturtle()
+turtle.done
